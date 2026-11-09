@@ -15,6 +15,7 @@
 
 - Godot Engine
 - GDScript
+- Blender
 
 ## Status
 
