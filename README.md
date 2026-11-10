@@ -26,7 +26,7 @@
 ![House](house.png)
 
 ### Basement
-![Basement](basement.png)
+![Basement](basment.png)
 
 ### Pause Menu
 ![Pause Menu](%20paused%20menu.png)
