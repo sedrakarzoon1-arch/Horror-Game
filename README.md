@@ -20,3 +20,13 @@
 ## Status
 
 🚧 Work in Progress
+## Screenshots
+
+### House
+![House](house.png)
+
+### Basement
+![Basement](basement.png)
+
+### Pause Menu
+![Pause Menu](%20paused%20menu.png)
