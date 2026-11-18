@@ -30,3 +30,7 @@
 
 ### Pause Menu
 ![Pause Menu](paused%20menu.png)
+
+## Gameplay Demo
+
+Gameplay video will be added soon.
